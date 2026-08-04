@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post-Master Researcher at the Quantum Network Research Center, KISTI
+subtitle:
 
 profile:
   align: right
