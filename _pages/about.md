@@ -9,11 +9,11 @@ profile:
   image: sungyeon-kook.png
   image_circular: false
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
@@ -38,3 +38,23 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 - Classical Error-Correcting Codes
 
 **I am actively seeking Ph.D. opportunities in quantum error correction and fault-tolerant quantum computing.**
+
+<br>
+
+<details>
+  <summary><strong>Selected Publications</strong></summary>
+
+  <div style="margin-top: 1rem;">
+    {% bibliography --query @*[selected=true] %}
+  </div>
+</details>
+
+<br>
+
+<details>
+  <summary><strong>News</strong></summary>
+
+  <div style="margin-top: 1rem;">
+    {% include news.liquid %}
+  </div>
+</details>
