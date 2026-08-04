@@ -6,7 +6,7 @@ subtitle: Post-Master Researcher at the Quantum Network Research Center, KISTI
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profpic.jpg
   image_circular: false
   more_info: >
     <p>Quantum Network Research Center</p>
