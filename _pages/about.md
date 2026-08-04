@@ -6,7 +6,7 @@ subtitle: Post-Master Researcher at the Quantum Network Research Center, KISTI
 
 profile:
   align: right
-  image: sungyeon kook.png
+  image: sungyeon-kook.png
   image_circular: false
 
 selected_papers: true
