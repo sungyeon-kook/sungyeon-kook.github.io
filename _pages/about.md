@@ -23,9 +23,9 @@ latest_posts:
   limit: 3
 ---
 
-I am a **Post-Master Researcher** at the Quantum Network Research Center, Korea Institute of Science and Technology Information (**KISTI**).
+I am a **Post-Master Researcher** at the Quantum Network Research Center, [Korea Institute of Science and Technology Information (**KISTI**)](https://www.kisti.re.kr/homekor).
 
-I received my M.S. and B.S. degrees in Electrical Engineering from **Korea University**, where I conducted research in the [Communications and Information Systems Laboratory](https://cislab.korea.ac.kr/board_LEVM31/index) under the supervision of [Prof. Jun Heo](https://cislab.korea.ac.kr/page_vTOr65). I was also a visiting student researcher at the [Korea Research Institute of Standards and Science (**KRISS**)](https://www.kriss.re.kr/departmentWeb/department2deptsView.es?mid=a11007010100&kd1_code=1000002&kd2_code=1000073), working on superconducting quantum computing experiments and control systems.
+I received my M.S. and B.S. degrees in Electrical Engineering from [**Korea University**](https://www.korea.ac.kr/sites/ko/index.do), where I conducted research in the [Communications and Information Systems Laboratory](https://cislab.korea.ac.kr/board_LEVM31/index) under the supervision of [Prof. Jun Heo](https://cislab.korea.ac.kr/page_vTOr65). I was also a visiting student researcher at the [Korea Research Institute of Standards and Science (**KRISS**)](https://www.kriss.re.kr/departmentWeb/department2deptsView.es?mid=a11007010100&kd1_code=1000002&kd2_code=1000073), working on superconducting quantum computing experiments and control systems.
 
 My research focuses on **quantum error correction** and **fault-tolerant quantum computing**, with particular interests in surface codes, quantum LDPC codes, magic-state distillation, decoder design, code switching, and fault-tolerant resource estimation. I am also broadly interested in quantum information theory, quantum algorithms, and classical error-correcting codes.
 
