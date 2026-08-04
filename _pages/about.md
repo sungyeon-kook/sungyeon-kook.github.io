@@ -8,10 +8,6 @@ profile:
   align: right
   image: profpic.jpg
   image_circular: false
-  more_info: >
-    <p>Quantum Network Research Center</p>
-    <p>Korea Institute of Science and Technology Information (KISTI)</p>
-    <p>Daejeon, Republic of Korea</p>
 
 selected_papers: true
 social: true
