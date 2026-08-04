@@ -40,7 +40,7 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 - Quantum LDPC Codes
 - Surface Codes
 - Magic-State Distillation
-- Quantum Decoder Design
+- QECC Decoder 
 - Code Switching
 - Fault-Tolerant Resource Estimation
 - Quantum Information Theory
