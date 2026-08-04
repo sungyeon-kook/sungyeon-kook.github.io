@@ -4,11 +4,6 @@ title: about
 permalink: /
 subtitle: Post-Master Researcher at the Quantum Network Research Center, KISTI
 
-profile:
-  align: right
-  image: profpic.jpg
-  image_circular: false
-
 selected_papers: true
 social: true
 
