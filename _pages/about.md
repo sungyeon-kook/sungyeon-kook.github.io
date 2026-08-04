@@ -6,7 +6,7 @@ subtitle: Post-Master Researcher at the Quantum Network Research Center, KISTI
 
 profile:
   align: right
-  image: profpic.jpg
+  image: 국성연 사진.png
   image_circular: false
 
 selected_papers: true
