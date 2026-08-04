@@ -18,3 +18,24 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+ol.bibliography {
+  list-style: none;
+  counter-reset: publication-counter;
+  padding-left: 0;
+}
+
+ol.bibliography > li {
+  counter-increment: publication-counter;
+  position: relative;
+  padding-left: 2.5rem;
+}
+
+ol.bibliography > li::before {
+  content: counter(publication-counter) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+</style>
