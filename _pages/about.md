@@ -37,4 +37,4 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 - Quantum Algorithms
 - Classical Error-Correcting Codes
 
-I am actively seeking Ph.D. opportunities in quantum error correction and fault-tolerant quantum computing.
+**I am actively seeking Ph.D. opportunities in quantum error correction and fault-tolerant quantum computing.**
