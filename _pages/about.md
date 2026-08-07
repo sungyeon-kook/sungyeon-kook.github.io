@@ -32,9 +32,8 @@ My research focuses on **quantum error correction** and **fault-tolerant quantum
 
 ### Research Interests
 
-- Quantum Error Correction
-- Fault-Tolerant Quantum Computing
 - Quantum Information Theory
+- Quantum Error Correction
 - Quantum Algorithms
 - Classical Error-Correcting Codes
 
