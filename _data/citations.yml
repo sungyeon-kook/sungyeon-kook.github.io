@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-04'
 papers:
+  Pe-yY58AAAAJ:2osOgNQ5qMEC:
+    citations: 0
+    title: 'Efficient Quantum Modular Reduction: Crandall reduction and its Fault-tolerant resource analysis'
+    year: '2026'
   Pe-yY58AAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Low Spatial Cost CCZ Magic State Factory
